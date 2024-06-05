@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.4](https://github.com/pythoninthegrass/gopappy/compare/v1.6.3...v1.6.4) (2024-06-05)
+
+
+### Documentation
+
+* fix add-record example ([a28d359](https://github.com/pythoninthegrass/gopappy/commit/a28d359041e0f9d4f9701508430375fb63f268ae))
+
 ## [1.6.3](https://github.com/pythoninthegrass/gopappy/compare/v1.6.2...v1.6.3) (2024-05-22)
 
 
